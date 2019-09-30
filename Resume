@@ -1,3 +1,5 @@
+<!DOC TYPE html>
+<html>
 <div id="header"></div>
 <div class="left"></div>
 <div class="stuff">
@@ -103,3 +105,4 @@
 <div class="right"></div>
 <div id="footer">
   <h2 id="name">Asad</h2></div>
+</html>
